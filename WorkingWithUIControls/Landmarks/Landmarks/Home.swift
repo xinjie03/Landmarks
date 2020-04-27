@@ -1,9 +1,9 @@
 /*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A view showing featured landmarks above a list of all of the landmarks.
-*/
+ See LICENSE folder for this sample’s licensing information.
+ 
+ Abstract:
+ A view showing featured landmarks above a list of all of the landmarks.
+ */
 
 import SwiftUI
 
@@ -30,7 +30,7 @@ struct CategoryHome: View {
                 .padding()
         }
     }
-
+    
     var body: some View {
         NavigationView {
             List {
@@ -52,7 +52,7 @@ struct CategoryHome: View {
             .navigationBarTitle(Text("Featured"))
             .navigationBarItems(trailing: profileButton)
             .sheet(isPresented: $showingProfile) {
-                 ProfileHost()
+                ProfileHost()
                     .environmentObject(self.userData)
             }
         }

@@ -1,7 +1,7 @@
 [
     {
         "name": "Turtle Rock",
-        "category": "Rivers",
+        "category": "Mountains",
         "city": "Twentynine Palms",
         "state": "California",
         "id": 1001,
@@ -12,7 +12,7 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "imageName": "turtlerock"
+        "imageName": "changeimage"
     },
     {
         "name": "Silver Salmon Creek",
@@ -27,7 +27,7 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "imageName": "silversalmoncreek"
+        "imageName": "changeimage"
     },
     {
         "name": "Chilkoot Trail",
@@ -57,7 +57,7 @@
             "longitude": -113.536248,
             "latitude": 48.69423
         },
-        "imageName": "stmarylake"
+        "imageName": "chilkoottrail"
     },
     {
         "name": "Twin Lake",
@@ -72,7 +72,7 @@
             "longitude": -153.849883,
             "latitude": 60.641684
         },
-        "imageName": "twinlake"
+        "imageName": "rainbowlake"
     },
     {
         "name": "Lake McDonald",
@@ -102,7 +102,7 @@
             "longitude": -143.122586,
             "latitude": 65.350021
         },
-        "imageName": "charleyrivers",
+        "imageName": "chincoteague",
     },
     {
         "name": "Icy Bay",
@@ -147,7 +147,7 @@
             "longitude": -121.17799,
             "latitude": 48.495442
         },
-        "imageName": "hiddenlake"
+        "imageName": "umbagog"
     },
     {
         "name": "Chincoteague",
